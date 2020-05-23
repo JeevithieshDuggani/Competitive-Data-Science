@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>test.csv</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script type="text/javascript" src="https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=-VdCtj_w5rvnbsYfQzM0qg1C-IxdrdKWM7V5dQg23p3GHb-0qaA5Ces22f6S0seMAbVl2WCVj4BS7tUSk1ozz2vHKBqaFh3TZr_IUZ8O3nrsLA0q2x9aEYJnyeL4B8dLpZtVfGnvZS3l_igmvtllpA" charset="UTF-8"></script></head>
+
+<body>
+  <style type="text/css">
+    html, body, #container {
+      height: 100%;
+    }
+    body, #container {
+      overflow: hidden;
+      margin: 0;
+    }
+    #iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  </style>
+  <div id="container">
+    <iframe id="iframe" sandbox="allow-scripts" src="/files/readonly/final_project_data/test.csv"></iframe>
+  </div>
+</body>
+
+</html>
